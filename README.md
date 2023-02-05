@@ -3,13 +3,13 @@
 <div style="margin-top:40px; margin-bottom:40px;">
 </div>
 
-- 🦆 **Full Stack** Developer
+- 🦆 **Full Interface** Developer
   
-- ⭕ I'm Currenty looking for opportunities on companys.
+- ⭕ I'm Currenty looking for opportunities on companys as Frontend Developer.
   
 - 😍 You can know more about me visiting my site marlonlencina.com
   
-- ...fun fact: (●'◡'●) **OTAKU**.
+- ...fun fact: (●'◡'●) **Love animes, User Interfaces and Languages**.
 
 <div style="margin-top:40px; margin-bottom:40px;">
 
@@ -48,7 +48,7 @@
 
 
 $$
-"Olheiras Delatam Os Sonhadores"
+"Olheiras Delatam Os Sonhadores. ~ Fabio Brazza"
 $$
 
 <div style="margin-top:40px; margin-bottom:40px;">
