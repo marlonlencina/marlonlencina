@@ -1,5 +1,5 @@
 Hey. 🧉?
 
-Mediocre Developer
-Langs && Frameworks: Java, Typescript, React, Node, C/C++                           
-studying at Compute engineering at UFSC
+Mediocre Developer <br>
+Langs && Frameworks: Java, Typescript, React, Node, C/C++ <br>                           
+studying at Compute engineering at UFSC <br>
